@@ -22,4 +22,13 @@ Analysis for temperatures in December timefram for years 2010 to 2017 are:
 * The percentile averages also support a consistent and comforable visitng weather pattern over the 2 periods:
     * June percentile temperatures are: 25%tile is 73, 50%tile is 75, and 75%tile is 77
     * December percentile temperatures are: 25%tile is 69, 50%tile is 71, and 75%tile is 74   
-*      
+
+## Summary
+So far, this data supports VI's Surf and Shake Shop venture initiative.  However, it would only be right to look at precipitation data over these time periods as well for a final confirmation that potential visitors will experience fair and comfortable weather most of the time.  For this purpose VI has also run the following precipation data:
+
+*  VI queried precipation data over the years 2010 through 2017 for the month of June along with statistics for averages and percentiles.
+*  VI queried precipation data over the years 2010 through 2017 for the month of December along with statistics for averages and percentiles.
+
+Once again, this data ensures 75 percent of the time rainfall precipitation will be minimal, with the 75%tile data showing 0.12 inches for June months and 0.15 inches for December months.
+
+ 
