@@ -8,18 +8,29 @@ To fulfill W. Avy's request, VI will use Python, Pandas functions and methods, a
 ## Results
 The results of this analysis proved the weather temperatures to comfortable for tourits and stable enough over the two periods to encourage a healthy and consistent tourist visitation.   
 
-Analysis for temperatures in June timefram for years 2010 to 2017 are:
+Analysis for temperatures in June timeframe for years 2010 to 2017 are:
 
 ![June_temps](https://user-images.githubusercontent.com/35401581/137364423-664f599f-b592-44ed-9dda-1d3161071911.png)
 
 
-Analysis for temperatures in December timefram for years 2010 to 2017 are:
+Analysis for temperatures in December timeframe for years 2010 to 2017 are:
 
 ![Dec_temps](https://user-images.githubusercontent.com/35401581/137364426-27c076c2-5ed2-4eea-b72e-a9ad5cb36f96.png)
 
-* The range of temperatures (farenheit) proved surprisingly but reassuringly consistent between the two periods of time (i.e. June for typically warmer months and December for typically cooler months).  The June range of temperatures was a min of 64 degrees and a max of 85 degrees.  The December range of temperatures was a min of 56 degrees just 8 degrees cooler at times and a max of 83 degrees closely matching June's temperature max at 85 degrees.
+* The range of temperatures (farenheit) proved surprisingly but reassuringly consistent between the two periods of time (i.e. June for typically warmer months and December for typically cooler months).  The June range of temperatures was a minimum of 64 degrees and a max of 85 degrees.  The December range of temperatures was a minimum of 56 degrees  and a max of 83 degrees closely matching June's temperature max at 85 degrees.  December's minimum temperature at 56 degrees (compared to June's 64 degrees) is the largest disparity of all data points between the two timeframes (June and December).  However, see the percentiles presented below for a more consistent comparison.
 * Further support for temperatures being consistent between June and December is the average temperatures being within 4 degrees of each other:  75 degrees for June and 71 degrees for December.
 * The percentile averages also support a consistent and comforable visitng weather pattern over the 2 periods:
     * June percentile temperatures are: 25%tile is 73, 50%tile is 75, and 75%tile is 77
-    * December percentile temperatures are: 25%tile is 69, 50%tile is 71, and 75%tile is 74   
-*      
+    * December percentile temperatures are: 25%tile is 69, 50%tile is 71, and 75%tile is 74
+
+## Summary
+So far, this data supports VI's Surf and Shake Shop venture initiative.  However, it would only be right to look at precipitation data over these time periods as well for a final confirmation that potential visitors will experience fair and comfortable weather most of the time.  For this purpose VI also ran the following precipation data:
+
+*  VI queried precipation data over the years 2010 through 2017 for the month of June along with statistics for averages and percentiles.
+*  VI queried precipation data over the years 2010 through 2017 for the month of December along with statistics for averages and percentiles.
+
+Once again, this data ensures 75 percent of the time rainfall precipitation will be minimal, with the 75%tile data showing 0.12 inches for June months and 0.15 inches for December months.
+
+The final analysis shows Oahu's weather for most of the year will be fair and comfortable at least 75% of the time and will not be an factor in the Surf and Shake Shop's success. 
+
+ 
