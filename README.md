@@ -8,12 +8,12 @@ To fulfill W. Avy's request, VI will use Python, Pandas functions and methods, a
 ## Results
 The results of this analysis proved the weather temperatures to comfortable for tourits and stable enough over the two periods to encourage a healthy and consistent tourist visitation.   
 
-Analysis for temperatures in June timefram for years 2010 to 2017 are:
+Analysis for temperatures in June timeframe for years 2010 to 2017 are:
 
 ![June_temps](https://user-images.githubusercontent.com/35401581/137364423-664f599f-b592-44ed-9dda-1d3161071911.png)
 
 
-Analysis for temperatures in December timefram for years 2010 to 2017 are:
+Analysis for temperatures in December timeframe for years 2010 to 2017 are:
 
 ![Dec_temps](https://user-images.githubusercontent.com/35401581/137364426-27c076c2-5ed2-4eea-b72e-a9ad5cb36f96.png)
 
@@ -24,11 +24,13 @@ Analysis for temperatures in December timefram for years 2010 to 2017 are:
     * December percentile temperatures are: 25%tile is 69, 50%tile is 71, and 75%tile is 74   
 
 ## Summary
-So far, this data supports VI's Surf and Shake Shop venture initiative.  However, it would only be right to look at precipitation data over these time periods as well for a final confirmation that potential visitors will experience fair and comfortable weather most of the time.  For this purpose VI has also run the following precipation data:
+So far, this data supports VI's Surf and Shake Shop venture initiative.  However, it would only be right to look at precipitation data over these time periods as well for a final confirmation that potential visitors will experience fair and comfortable weather most of the time.  For this purpose VI has also ran the following precipation data:
 
 *  VI queried precipation data over the years 2010 through 2017 for the month of June along with statistics for averages and percentiles.
 *  VI queried precipation data over the years 2010 through 2017 for the month of December along with statistics for averages and percentiles.
 
 Once again, this data ensures 75 percent of the time rainfall precipitation will be minimal, with the 75%tile data showing 0.12 inches for June months and 0.15 inches for December months.
+
+The final analysis shows Oahu's weather for most of the year will be fair and comfortable at least 75% of the time and not be an factor in the Surf and Shake Shop's success. 
 
  
