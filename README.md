@@ -31,6 +31,6 @@ So far, this data supports VI's Surf and Shake Shop venture initiative.  However
 
 Once again, this data ensures 75 percent of the time rainfall precipitation will be minimal, with the 75%tile data showing 0.12 inches for June months and 0.15 inches for December months.
 
-The final analysis shows Oahu's weather for most of the year will be fair and comfortable at least 75% of the time and not be an factor in the Surf and Shake Shop's success. 
+The final analysis shows Oahu's weather for most of the year will be fair and comfortable at least 75% of the time and will not be an factor in the Surf and Shake Shop's success. 
 
  
