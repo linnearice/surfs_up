@@ -9,9 +9,12 @@ To fulfill W. Avy's request, VI will use Python, Pandas functions and methods, a
 The results of this analysis proved the weather temperatures to comfortable for tourits and stable enough over the two periods to encourage a healthy and consistent tourist visitation.   
 
 Analysis for temperatures in June timefram for years 2010 to 2017 are:
+
 ![June_temps](https://user-images.githubusercontent.com/35401581/137364423-664f599f-b592-44ed-9dda-1d3161071911.png)
 
+
 Analysis for temperatures in December timefram for years 2010 to 2017 are:
+
 ![Dec_temps](https://user-images.githubusercontent.com/35401581/137364426-27c076c2-5ed2-4eea-b72e-a9ad5cb36f96.png)
 
 * The range of temperatures (farenheit) proved surprisingly but reassuringly consistent between the two periods of time (i.e. June for typically warmer months and December for typically cooler months).  The June range of temperatures was a min of 64 degrees and a max of 85 degrees.  The December range of temperatures was a min of 56 degrees just 8 degrees cooler at times and a max of 83 degrees closely matching June's temperature max at 85 degrees.
