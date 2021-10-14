@@ -20,6 +20,6 @@ Analysis for temperatures in December timefram for years 2010 to 2017 are:
 * The range of temperatures (farenheit) proved surprisingly but reassuringly consistent between the two periods of time (i.e. June for typically warmer months and December for typically cooler months).  The June range of temperatures was a min of 64 degrees and a max of 85 degrees.  The December range of temperatures was a min of 56 degrees just 8 degrees cooler at times and a max of 83 degrees closely matching June's temperature max at 85 degrees.
 * Further support for temperatures being consistent between June and December is the average temperatures being within 4 degrees of each other:  75 degrees for June and 71 degrees for December.
 * The percentile averages also support a consistent and comforable visitng weather pattern over the 2 periods:
-    * June percentiles temperatures are: 25%tile is 73, 50%tile is 75, and 75%tile is 77
-    * December percentiles temperatures are: 25%tile is 69, 50%tile is 71, and 75%tile is 74   
+    * June percentile temperatures are: 25%tile is 73, 50%tile is 75, and 75%tile is 77
+    * December percentile temperatures are: 25%tile is 69, 50%tile is 71, and 75%tile is 74   
 *      
